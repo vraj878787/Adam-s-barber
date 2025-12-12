@@ -84,10 +84,10 @@ class CustomFooter extends HTMLElement {
             <div class="container">
                 <div class="footer-content">
                     <div class="footer-section">
-                        <h3>The Razor's Edge</h3>
+                        <h3>Adam's Barber</h3>
                         <p>Precision cuts, timeless shaves, and elevated grooming rituals for the modern gentleman.</p>
                         <div class="social-links">
-                            <a href="#" aria-label="Instagram"><i data-feather="instagram"></i></a>
+                            <a href="https://www.instagram.com/adamsbarber30?igsh=MW8zZHIzenRwcWc1dA==" aria-label="Instagram"><i data-feather="instagram"></i></a>
                             <a href="#" aria-label="Facebook"><i data-feather="facebook"></i></a>
                             <a href="#" aria-label="Twitter"><i data-feather="twitter"></i></a>
                         </div>
